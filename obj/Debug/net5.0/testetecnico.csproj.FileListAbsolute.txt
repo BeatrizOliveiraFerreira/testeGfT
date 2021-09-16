@@ -1,0 +1,16 @@
+C:\Users\beafe\testetecnico\bin\Debug\net5.0\testetecnico.exe
+C:\Users\beafe\testetecnico\bin\Debug\net5.0\testetecnico.deps.json
+C:\Users\beafe\testetecnico\bin\Debug\net5.0\testetecnico.runtimeconfig.json
+C:\Users\beafe\testetecnico\bin\Debug\net5.0\testetecnico.runtimeconfig.dev.json
+C:\Users\beafe\testetecnico\bin\Debug\net5.0\testetecnico.dll
+C:\Users\beafe\testetecnico\bin\Debug\net5.0\ref\testetecnico.dll
+C:\Users\beafe\testetecnico\bin\Debug\net5.0\testetecnico.pdb
+C:\Users\beafe\testetecnico\obj\Debug\net5.0\testetecnico.csproj.AssemblyReference.cache
+C:\Users\beafe\testetecnico\obj\Debug\net5.0\testetecnico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beafe\testetecnico\obj\Debug\net5.0\testetecnico.AssemblyInfoInputs.cache
+C:\Users\beafe\testetecnico\obj\Debug\net5.0\testetecnico.AssemblyInfo.cs
+C:\Users\beafe\testetecnico\obj\Debug\net5.0\testetecnico.csproj.CoreCompileInputs.cache
+C:\Users\beafe\testetecnico\obj\Debug\net5.0\testetecnico.dll
+C:\Users\beafe\testetecnico\obj\Debug\net5.0\ref\testetecnico.dll
+C:\Users\beafe\testetecnico\obj\Debug\net5.0\testetecnico.pdb
+C:\Users\beafe\testetecnico\obj\Debug\net5.0\testetecnico.genruntimeconfig.cache
